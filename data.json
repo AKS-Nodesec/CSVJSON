@@ -1,0 +1,11 @@
+[
+	{
+		"Caption": "Intel64 Family 6 Model 140 Stepping 1",
+		"DeviceID": "CPU0",
+		"MaxClockSpeed": "2001",
+		"Name": "11th Gen Intel(R) Core(TM) i3-1125G4 @ 2.00GHz",
+		"Node": "ANJAN_NODESEC",
+		"NumberOfCores": "4",
+		"Status": "OK"
+	}
+]
